@@ -5,7 +5,7 @@ import { Route, Trees, Droplets, Shield, Building2 } from "lucide-react"
 // Swap these placeholder values for the real event details before publishing.
 // ---------------------------------------------------------------------------
 export const eventDetails = {
-  name: "The Lewiston Project Map: Community Preview",
+  name: "City of Lewiston",
   tagline: "One public view of our city's projects, budgets, and progress.",
   dateLabel: "Thursday, October 22, 2026",
   dateISO: "2026-10-22",
